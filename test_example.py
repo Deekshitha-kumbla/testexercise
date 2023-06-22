@@ -1,4 +1,5 @@
 from example import add
+from example import subtract
 
 def test_add():
     assert add(10,5) == 15
